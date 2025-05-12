@@ -22,7 +22,7 @@ O menor valor de faturamento em um dia do mês;
 O maior valor de faturamento em um dia do mês;
 Quantos dias tiveram faturamento acima da média (ignorando dias com faturamento zero).
 
-# 4. ercentual de faturamento por estado
+# 4. Percentual de faturamento por estado
 
 Dado o faturamento mensal por estado:
 SP: R$ 67.836,43
