@@ -2,8 +2,6 @@
 
 Este repositório contém a resolução dos cinco desafios propostos no processo seletivo para a vaga de desenvolvedora na Target Sistemas, utilizando JavaScript.
 
----
-
 # 1. Soma de números inteiros com `while`
 
 Dado o código:
@@ -43,6 +41,6 @@ Clone o repositório:
 git clone https://github.com/natemaciel7/target-sistemas-desafio.git
 cd target-sistemas-desafio
 Execute com Node.js:
-node desafio.js
+node desafios.js
 
 Repositório no GitHub: https://github.com/natemaciel7/target-sistemas-desafio

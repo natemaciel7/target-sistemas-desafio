@@ -9,6 +9,7 @@ function calcularSoma() {
     K = K + 1;
     SOMA = SOMA + K;
   }
+  console.log("1) Soma final:", SOMA); // Resultado: 91
 }
 
 // questao 2
